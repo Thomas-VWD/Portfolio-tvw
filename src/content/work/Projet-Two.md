@@ -1,5 +1,5 @@
 ---
-title: Project Two
+title: Wild Code School - Project Two
 publishDate: 2023-06-02 00:00:00
 img: /assets/WCS-Projet-2.png
 img_alt: Snapshot of the work we do on projet two

@@ -1,5 +1,5 @@
 ---
-title: TSNgame
+title: Wild Code School - Project three
 publishDate: 2023-07-27 00:00:00
 img: /assets/WCS-Projet-3-Mobile.png
 img_alt: Picture of the TSNgame Mobile app
