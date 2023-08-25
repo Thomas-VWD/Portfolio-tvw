@@ -1,19 +1,20 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+title: TSNgame
+publishDate: 2023-07-27 00:00:00
+img: /assets/WCS-Projet-3-Mobile.png
+img_alt: Picture of the TSNgame Mobile app
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  We developed our inaugural full-stack application for Ocean Digital, focusing on an OTT app theme.
 tags:
   - Design
-  - Dev
-  - User Testing
+  - Frontend
+  - Backend
+  - ExpressJs
 ---
 
-## Level-two heading
+## Increase our fullstack skills!
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> For this project, we face a real client! That was amazing to learn how to work directly for Ocean Digital!
 
 Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
 

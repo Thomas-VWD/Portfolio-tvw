@@ -19,7 +19,10 @@ For this project, we had three major points to implement, and we were free to ch
 
 3 - Appling SCRUM, an agile methodology.
 
-We rapidly found a cool theme for our app, all of use like good beer, some of us use tinder ... Match ! TindBeer is born!
+We quickly identified an exciting theme for our app. Since all of us enjoy good beer and some of us are familiar with Tinder... Match! TindBeer is born!
 
-So the first step was to do a crazy height, we do a figma and serch an public api available for our project.
-We finally build a
+Throughout this project, we gained extensive experience working with the SCRUM methodology. Each of us had the opportunity to take on roles such as Scrum Master, Product Owner, or developer.
+
+Furthermore, it provided an excellent opportunity to enhance our REACT skills.
+
+This project was not designed by our school to be publish online, so I make a good video of it on my <a href="https://www.linkedin.com/feed/update/urn:li:activity:7072583813456957440/">Linkedin profile</a>
