@@ -12,9 +12,11 @@ tags:
   - HTML5 & CSS3
 ---
 
-During this first project, the objective was to initiate collaborative coding within the project, learn how to use Git & GitHub, and face our first merge! It was a confusing experience, causing some CSS-related challenges... However, we gained significant insights from overcoming these difficulties.
+> During this first project, the objective was to initiate collaborative coding within the project, learn how to use Git & GitHub.
 
-So, what did the project involve?
+We face our first merge! It was a confusing experience, causing some CSS-related challenges... However, we gained significant insights from overcoming these difficulties.
+
+##### So, what did the project involve?
 
 - Creating a static mobile-first web page.
 - Applying the knowledge we had acquired up to that point:

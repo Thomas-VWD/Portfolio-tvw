@@ -9,28 +9,24 @@ tags:
   - Design
   - Frontend
   - Backend
-  - ExpressJs
 ---
-
-## Increase our fullstack skills!
 
 > For this project, we face a real client! That was amazing to learn how to work directly for Ocean Digital!
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+### Increase our fullstack skills!
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+We have 2 month to do our first fullstack app!
+We had 2 days per week allocated to the project during the training.
+The rest is on own hand during our free time.
 
-### Level-three heading
+### What we use in this project?
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+After the second project, we learned SQL and how to use it with Express.js. This was a significant step, and now we are facing the challenge of the final group project with all that we have learned so far.
 
-### Level-three heading
+### Autonomy
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+This time, we are tackling the challenge mostly on our own (with exceptions for major difficulties). We are following the Scrum Master methodology. I have experimented more than in the last project with all the roles – PO, Scrum Master – and I am also experimenting with a new role: Lead Designer.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+### More to Come
 
-#### Level-four heading
-
-- We noted this
-- And also this other point
+Stay tuned for further updates.
