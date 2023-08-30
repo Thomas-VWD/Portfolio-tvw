@@ -9,6 +9,8 @@ tags:
   - Design
   - Frontend
   - Backend
+  - SQL
+  - Express.js
 ---
 
 > For this project, we face a real client! That was amazing to learn how to work directly for Ocean Digital!
