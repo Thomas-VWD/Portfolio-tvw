@@ -11,13 +11,13 @@ tags:
   - SCRUM
 ---
 
-For this project, we had three major points to implement, and we were free to choose the theme.
+> For this project, we had three major points to implement, and we were free to choose the theme.
 
-1 - Building a REACT app.
+##### 1 - Building a REACT app.
 
-2 - Creating an app that utilizes a public API.
+##### 2 - Creating an app that utilizes a public API.
 
-3 - Appling SCRUM, an agile methodology.
+##### 3 - Appling SCRUM, an agile methodology.
 
 We quickly identified an exciting theme for our app. Since all of us enjoy good beer and some of us are familiar with Tinder... Match! TindBeer is born!
 
