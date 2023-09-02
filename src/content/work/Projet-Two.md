@@ -1,28 +1,28 @@
 ---
-title: Wild Code School - Project Two
+title: Wild Code School - Projet 2
 publishDate: 2023-06-02 00:00:00
 img: /assets/WCS-Projet-2.png
-img_alt: Snapshot of the work we do on projet two
+img_alt: Capture d'écran de notre projet 2
 description: |
-  We work on aur first REACT project with an public API
+  Nous travaillons sur notre premier projet en utilisant REACT + VITE avec une API publique.
 tags:
-  - REACT
+  - REACT + VITE
   - API
   - SCRUM
 ---
 
-> For this project, we had three major points to implement, and we were free to choose the theme.
+> Pour ce projet, nous avions trois composantes majeures à appliquer, et nous avions la liberté de choisir le thème de l'application ainsi que celui de l'API.
 
-##### 1 - Building a REACT app.
+##### 1 - Créer une application en utilisant REACT + VITE.
 
-##### 2 - Creating an app that utilizes a public API.
+##### 2 - Sélectionner une API à récupérer pour notre projet.
 
-##### 3 - Appling SCRUM, an agile methodology.
+##### 3 - Mettre en œuvre la méthode agile SCRUM.
 
-We quickly identified an exciting theme for our app. Since all of us enjoy good beer and some of us are familiar with Tinder... Match! TindBeer is born!
+Nous avons rapidement identifié un thème passionnant pour notre application. Comme nous sommes tous amateurs de bière de qualité et que certains d'entre nous sont familiers avec Tinder... Match ! TindBeer est né !
 
-Throughout this project, we gained extensive experience working with the SCRUM methodology. Each of us had the opportunity to take on roles such as Scrum Master, Product Owner, or developer.
+Tout au long de ce projet, nous avons acquis une expérience approfondie en travaillant avec la méthodologie SCRUM. Chacun de nous a eu l'occasion d'assumer des rôles tels que Scrum Master, Product Owner ou développeur.
 
-Furthermore, it provided an excellent opportunity to enhance our REACT skills.
+De plus, cela a été une excellente opportunité pour améliorer nos compétences en REACT.
 
-This project was not designed by our school to be publish online, so I make a good video of it on my <a href="https://www.linkedin.com/feed/update/urn:li:activity:7072583813456957440/">Linkedin profile</a>
+Ce projet n'était pas destiné à être déployé en ligne, donc j'ai réalisé une vidéo que vous pouvez trouver sur mon <a href="https://www.linkedin.com/feed/update/urn:li:activity:7072583813456957440/">profil LinkedIn</a>.

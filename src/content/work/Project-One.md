@@ -1,10 +1,10 @@
 ---
-title: Wild Code School - Project One
+title: Wild Code School - Projet projet 1
 publishDate: 2023-05-30 00:00:00
 img: /assets/WCS-Projet-1-1.png
-img_alt: A snashot of the static web page we do
+img_alt: Une Capture d'écran de notre projet
 description: |
-  We started our first project to learn teamwork and collaboration using a version control system.
+  Nous commençons ce premier projet avec pour objectif de nous familiariser avec les enjeux du travail collaboratif et de l'expérimentation en groupe d'un systeme de version de contrôle.
 tags:
   - Git & Github
   - JavaScript
@@ -12,22 +12,26 @@ tags:
   - HTML5 & CSS3
 ---
 
-> During this first project, the objective was to initiate collaborative coding within the project, learn how to use Git & GitHub.
+> Pendant ce premier projet, l'objectif est d'expérimenter le codage en équipe sur un projet et d'apprendre à utiliser les outils Git & GitHub.
 
-We face our first merge! It was a confusing experience, causing some CSS-related challenges... However, we gained significant insights from overcoming these difficulties.
+##### Premier merge & résolution de conflits !
 
-##### So, what did the project involve?
+Les difficultés rencontrées pour résoudre nos conflits et assurer le bon fonctionnement de notre code se sont avérées compliquées au premier abord.
 
-- Creating a static mobile-first web page.
-- Applying the knowledge we had acquired up to that point:
+Cependant, notre expérience a grandi, et nous avons gagné en confiance !
+
+##### Les détails du projet :
+
+- Créer un site statique en adoptant une approche "mobile first".
+- Mettre en pratique les connaissances que nous avons acquises jusqu'à présent, notamment en :
 - HTML5
 - CSS3
 - JavaScript
 - DOM
 - Git & Github
 
-Over the course of three weeks, we allocated one day to the project as part of the training schedule, while the rest of the work was done during our free time.
+Pendant trois semaines, nous avons alloué un jour au projet dans le cadre du programme de formation, tandis que le reste du travail a été effectué pendant notre temps libre.
 
-Following this initial static project, we learned valuable lessons about best practices and pitfalls to avoid, which guided us for future projects.
+Suite à ce premier projet statique, nous avons tiré des leçons précieuses sur les meilleures pratiques et sur celles à éviter, qui nous ont guidés pour les projets futurs.
 
-This experience was truly enlightening, and we are now prepared for the next step, even though we are uncertain about the specifics: learning teamwork in projects using SCRUM!"
+Cette expérience a été véritablement enrichissante, et nous sommes maintenant prêts pour la prochaine étape : apprendre le travail d'équipe dans les projets avec une méthode agile comme SCRUM !
