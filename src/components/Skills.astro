@@ -1,62 +1,79 @@
 ---
-import Icon from './Icon.astro';
+import Icon from "./Icon.astro";
 ---
 
 <section class="box skills">
-	<div class="stack gap-2 lg:gap-4">
-		<Icon icon="full-stack" color="var(--accent-regular)" size="2.5rem" gradient />
-		<h2>Full Stack</h2>
-		<p>I trained to be a fullstack Java Script React Web/Mobile developer at Wild Code School for 7 months in 2023.</p>
-	</div>
-	<div class="stack gap-2 lg:gap-4">
-		<Icon icon="team" color="var(--accent-regular)" size="2.5rem" gradient />
-		<h2>Team Player</h2>
-		<p>I mostly enjoy pair coding and being part of project teams. I like collaborative environments, where I can learn from others and share my knowledge.</p>
-	</div>
-	<div class="stack gap-2 lg:gap-4">
-		<Icon icon="boat" color="var(--accent-regular)" size="2.5rem" gradient />
-		<h2>Team Spirit</h2>
-		<p>My past as a logistic team leader gives me this certainty : We're all in the same boat, don't you think ? I see a lot of things in life this way. We pass through difficulties together and find solutions!</p>
-	</div>
+  <div class="stack gap-2 lg:gap-4">
+    <Icon
+      icon="full-stack"
+      color="var(--accent-regular)"
+      size="2.5rem"
+      gradient
+    />
+    <h2>Fullstack</h2>
+    <p>
+      J'ai suivi une formation pour devenir développeur fullstack JavaScript
+      React web/mobile à la Wild Code School pendant 7 mois en 2023.
+    </p>
+  </div>
+  <div class="stack gap-2 lg:gap-4">
+    <Icon icon="team" color="var(--accent-regular)" size="2.5rem" gradient />
+    <h2>Esprit d'équipe</h2>
+    <p>
+      J'apprécie principalement la programmation en binôme et faire partie
+      d'équipes de projet. J'aime les environnements collaboratifs où je peux
+      apprendre des autres et partager mes connaissances.
+    </p>
+  </div>
+  <div class="stack gap-2 lg:gap-4">
+    <Icon icon="boat" color="var(--accent-regular)" size="2.5rem" gradient />
+    <h2>Cohésion de Groupe</h2>
+    <p>
+      Mon passé en tant que chef d'équipe logistique me donne cette certitude :
+      nous sommes tous dans le même bateau, n'est-ce pas ? Je vois beaucoup de
+      choses dans la vie de cette manière. Nous traversons les difficultés
+      ensemble et trouvons des solutions !
+    </p>
+  </div>
 </section>
 
 <style>
-	.box {
-		border: 1px solid var(--gray-800);
-		border-radius: 0.75rem;
-		padding: 1.5rem;
-		background-color: var(--gray-999_40);
-		box-shadow: var(--shadow-sm);
-	}
+  .box {
+    border: 1px solid var(--gray-800);
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    background-color: var(--gray-999_40);
+    box-shadow: var(--shadow-sm);
+  }
 
-	.skills {
-		display: flex;
-		flex-direction: column;
-		gap: 3rem;
-	}
+  .skills {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
 
-	.skills h2 {
-		font-size: var(--text-lg);
-	}
+  .skills h2 {
+    font-size: var(--text-lg);
+  }
 
-	.skills p {
-		color: var(--gray-400);
-	}
+  .skills p {
+    color: var(--gray-400);
+  }
 
-	@media (min-width: 50em) {
-		.box {
-			border-radius: 1.5rem;
-			padding: 2.5rem;
-		}
+  @media (min-width: 50em) {
+    .box {
+      border-radius: 1.5rem;
+      padding: 2.5rem;
+    }
 
-		.skills {
-			display: grid;
-			grid-template-columns: repeat(3, 1fr);
-			gap: 5rem;
-		}
+    .skills {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 5rem;
+    }
 
-		.skills h2 {
-			font-size: var(--text-2xl);
-		}
-	}
+    .skills h2 {
+      font-size: var(--text-2xl);
+    }
+  }
 </style>
