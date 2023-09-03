@@ -1,42 +1,44 @@
 ---
-title: Hackathon
+title: Emmaüs Hackathon
 publishDate: 2023-06-30 00:00:00
 img: /assets/WCS-Hackathon.png
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img_alt: Capture d'écran de la page d'accueil de notre projet
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  Nous avons développé aussi rapidement que possible, lors d'un hackathon, une maquette de site pour Emmaüs.
 tags:
   - Design
   - Dev
   - Branding
 ---
 
-> How to organize a Hackathon? This is what we learned from our first one. All the web development and design students competed for this project, working for a real client: EMAUS.
+> Comment organiser un hackathon ? C'est ce que nous avons appris lors de notre tout premier.
 
-#### Two day
+Toutes les promotions de la Wild Code School, en Web Dev & Web Design, étés en compétition pour réaliser le projet de notre client : Emmaüs.
 
-This was the duration of this hackathon.
-First, we familiarize ourself with Emaus project.
+#### Deux jours
 
-#### The first day
+C'est le temps qui nous a été alloué pour ce hackathon. Tout d'abord, nous avons pris connaissance du projet et des demandes de notre client, Emmaüs.
 
-On the first morning, we built our database prototype.
+#### Le premier jour
 
-After the design team gave us acces to their Figma project, we selected the one we liked and began coding.
+Nous avons tout d'abord travaillé sur la structutre à donner à notre BDD afin de la construire ensuite avec MySQL.
 
-We decided to split the team fifty-fifty, with two of us working on the frontend and the other on the backend.
+Après que les promotions en design ont diffusé les maquettes qu'elles avaient réalisées sous Figma, nous avons sélectionné celle qui nous plaisait le plus, puis nous nous sommes lancés dans le codage.
 
-#### Last day
+Nous avons décidé de scinder l'équipe en deux, avec deux d'entre nous travaillant sur le frontend et les deux autres sur le backend.
 
-End of the hackhaton: 10 a.m.
-After a small night, we fix the last feature and present our app to the jury.
+#### Le dernier jour
+
+Fin du Hackathon 10h00 !
+
+Après une courte nuit, nous avons fixé les dernières fonctionnalités en groupe, puis nous avons présenté notre application fonctionnelle au jury.
 
 ### Conclusion
 
-We learned a lot!
+Nous avons énormément appris !
 
-Firstly, we were surprised by how many features we managed to develop in such a short amount of time.
+Tout d'abord, nous avons été agréablement surpris par le nombre de fonctionnalités que nous avons réussi à implémenter en si peu de temps.
 
-Secondly, even though our project was not selected by the jury during the semifinals, we feel proud of what we accomplished within this limited timeframe.
+De plus, même si notre projet n'a pas été sélectionné en demi-finale, nous sommes tous fiers du travail accompli.
 
-Finally, we reaffirm our confidence in our coding abilities.
+Enfin, nous avons renforcé notre confiance personnelle dans nos compétences en programmation.
