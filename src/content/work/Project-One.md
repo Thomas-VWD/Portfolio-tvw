@@ -1,5 +1,5 @@
 ---
-title: Wild Code School - Projet projet 1
+title: Wild Code School - Projet 1
 publishDate: 2023-05-30 00:00:00
 img: /assets/WCS-Projet-1-1.png
 img_alt: Une Capture d'écran de notre projet
