@@ -1,7 +1,7 @@
 ---
 title: Wild Code School - Projet 2
 publishDate: 2023-06-02 00:00:00
-img: /assets/WCS-Projet-2.png
+img: /assets/WCS-Projet-2.avif
 img_alt: Capture d'écran de notre projet 2
 description: |
   Nous travaillons sur notre premier projet en utilisant REACT + VITE avec une API publique.

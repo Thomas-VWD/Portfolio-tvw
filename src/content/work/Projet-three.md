@@ -1,7 +1,7 @@
 ---
 title: Wild Code School - Projet 3
 publishDate: 2023-07-27 00:00:00
-img: /assets/WCS-P3-Desktop.png
+img: /assets/WCS-P3-Desktop.webp
 img_alt: Capture de notre web app mobile TSNGame
 description: |
   Nous avons développé notre première application full-stack sur le modèle d'une plateforme OTT pour Origins-Digital.

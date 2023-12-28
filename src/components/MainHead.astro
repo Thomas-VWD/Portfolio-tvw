@@ -16,20 +16,16 @@ const {
 <meta name="description" property="og:description" content={description} />
 <meta name="viewport" content="width=device-width" />
 <meta name="generator" content={Astro.generator} />
+<meta property="og:title" content="A propos de moi et mes derniers projets" />
 <meta
   property="og:image"
-  content="https://portfolio-tvw.vercel.app/assets/OpenGraphTest.png"
+  content="https://portfolio-dm71g9ekd-thomas-vwd.vercel.app/assets/OpenGraphTest.avif"
 />
-<meta property="og:title" content="Know more about me and my last projects" />
+<meta property="og:description" content="Hello, je suis Thomas Verwaerde." />
 <meta
-  property="og:description"
-  content="
-Hello, je suis Thomas Verwaerde
-
-Je suis un développeur web/mobile fullstack, et je vis à Cornas, Ardèche, France.
-"
+  property="og:url"
+  content="https://portfolio-dm71g9ekd-thomas-vwd.vercel.app/"
 />
-<meta property="og:url" content="https://portfolio-tvw.vercel.app/" />
 <title>{title}</title>
 
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -40,27 +36,27 @@ Je suis un développeur web/mobile fullstack, et je vis à Cornas, Ardèche, Fra
   rel="stylesheet"
 />
 <script is:inline>
-// This code is inlined in the head to make dark mode instant & blocking.
-const getThemePreference = () => {
-	if (typeof localStorage !== "undefined" && localStorage.getItem("theme")) {
-		return localStorage.getItem("theme");
-	}
-	return window.matchMedia("(prefers-color-scheme: dark)").matches
-		? "dark"
-		: "light";
-};
-const isDark = getThemePreference() === "dark";
-document.documentElement.classList[isDark ? "add" : "remove"]("theme-dark");
+  // This code is inlined in the head to make dark mode instant & blocking.
+  const getThemePreference = () => {
+    if (typeof localStorage !== "undefined" && localStorage.getItem("theme")) {
+      return localStorage.getItem("theme");
+    }
+    return window.matchMedia("(prefers-color-scheme: dark)").matches
+      ? "dark"
+      : "light";
+  };
+  const isDark = getThemePreference() === "dark";
+  document.documentElement.classList[isDark ? "add" : "remove"]("theme-dark");
 
-if (typeof localStorage !== "undefined") {
-	// Watch the document element and persist user preference when it changes.
-	const observer = new MutationObserver(() => {
-		const isDark = document.documentElement.classList.contains("theme-dark");
-		localStorage.setItem("theme", isDark ? "dark" : "light");
-	});
-	observer.observe(document.documentElement, {
-		attributes: true,
-		attributeFilter: ["class"],
-	});
-}
+  if (typeof localStorage !== "undefined") {
+    // Watch the document element and persist user preference when it changes.
+    const observer = new MutationObserver(() => {
+      const isDark = document.documentElement.classList.contains("theme-dark");
+      localStorage.setItem("theme", isDark ? "dark" : "light");
+    });
+    observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["class"],
+    });
+  }
 </script>
