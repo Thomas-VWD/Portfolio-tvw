@@ -1,7 +1,7 @@
 ---
 title: Emmaüs Hackathon
 publishDate: 2023-06-30 00:00:00
-img: /assets/WCS-Hackathon.png
+img: /assets/WCS-Hackathon.avif
 img_alt: Capture d'écran de la page d'accueil de notre projet
 description: |
   Nous avons développé aussi rapidement que possible, lors d'un hackathon, une maquette de site pour Emmaüs.

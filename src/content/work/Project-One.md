@@ -1,7 +1,7 @@
 ---
 title: Wild Code School - Projet 1
 publishDate: 2023-05-30 00:00:00
-img: /assets/WCS-Projet-1-1.png
+img: /assets/WCS-Projet-1-1.avif
 img_alt: Une Capture d'écran de notre projet
 description: |
   Nous commençons ce premier projet avec pour objectif de nous familiariser avec les enjeux du travail collaboratif et de l'expérimentation en groupe d'un systeme de version de contrôle.
