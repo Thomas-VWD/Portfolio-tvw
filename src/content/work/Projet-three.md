@@ -29,7 +29,3 @@ Après le deuxième projet, nous avons appris SQL et comment l'utiliser avec Exp
 Cette fois-ci, nous relevons principalement le défi de manière autonome (à l'exception des difficultés majeures). Nous suivons la méthodologie Scrum. J'ai expérimenté davantage que lors du dernier projet tous les rôles - PO, Scrum Master.
 
 J'ai également eu l'opportunité d'expérimenter un nouveau rôle : Lead Designer.
-
-#### À venir :
-
-**Mises à jour à venir :** Nous travaillons actuellement sur une refonte de notre backoffice, ainsi que sur l'obtention d'un service Cloud S3 pour déployer le site dès que possible.
