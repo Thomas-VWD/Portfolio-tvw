@@ -1,7 +1,7 @@
 ---
 title: Solar System Missions
 publishDate: 2024-19-01 00:00:00
-img: /assets/Capture d’écran du 2024-01-24 16-22-41.png
+img: /assets/Solar-System-Missions.avif
 img_alt: Capture d'écran du projet Solar system Missions
 description: |
   Je créer des pdf sous environnement Node.js, avec le package NPM : pdfkit.
@@ -13,11 +13,15 @@ tags:
   - REACT
 ---
 
-> Créer des documents pdf à partir du code, sous environnement Node.js
+> Créer des documents PDF à partir du code, sous environnement Node.js
 
 #### Description
 
-Ce projet se compose de deux serveurs :
+En entreprise, la manipulation de documents occupe une place prépondérante.</br>
+Lors de mon stage chez **TEXTISS**, où j'ai travaillé sur la refonte de documents logistiques au format PDF sous l'environnement **PHP**, j'ai été inspiré pour explorer la création de PDF à partir du code, cette fois-ci en utilisant l'environnement **Node.js** !</br>
+</br>
+
+##### Ce projet se compose de deux serveurs :
 
 - **Le Backend :** </br></br>
   Il fonctionne dans un environnement **Node.js**.</br>
